@@ -1,0 +1,30 @@
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\Lethal Company Mod Manager.exe.config
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\Lethal Company Mod Manager.exe
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\Lethal Company Mod Manager.pdb
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\obj\Debug\Lethal Company Mod Manager.csproj.AssemblyReference.cache
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\obj\Debug\Lethal Company Mod Manager.csproj.SuggestedBindingRedirects.cache
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\obj\Debug\Lethal_Company_Mod_Manager.Form1.resources
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\obj\Debug\Lethal_Company_Mod_Manager.Properties.Resources.resources
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\obj\Debug\Lethal Company Mod Manager.csproj.GenerateResource.cache
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\obj\Debug\Lethal Company Mod Manager.csproj.CoreCompileInputs.cache
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\obj\Debug\Lethal Company Mod Manager.exe
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\obj\Debug\Lethal Company Mod Manager.pdb
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\System.Buffers.dll
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\System.Memory.dll
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\System.Numerics.Vectors.dll
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\System.Text.Encodings.Web.dll
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\System.Text.Json.dll
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\System.ValueTuple.dll
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\System.Buffers.xml
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\System.Memory.xml
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\System.Numerics.Vectors.xml
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\System.Text.Encodings.Web.xml
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\System.Text.Json.xml
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\bin\Debug\System.ValueTuple.xml
+D:\DevStuff\C#\FormsApps\LCMM\Lethal Company Mod Manager\obj\Debug\Lethal Company Mod Manager.csproj.CopyComplete
